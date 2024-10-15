@@ -1,0 +1,14 @@
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\bin\Debug\net8.0\Atividade_C#.exe
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\bin\Debug\net8.0\Atividade_C#.deps.json
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\bin\Debug\net8.0\Atividade_C#.runtimeconfig.json
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\bin\Debug\net8.0\Atividade_C#.dll
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\bin\Debug\net8.0\Atividade_C#.pdb
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\Atividade_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\Atividade_C#.AssemblyInfoInputs.cache
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\Atividade_C#.AssemblyInfo.cs
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\Atividade_C#.csproj.CoreCompileInputs.cache
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\Atividade_C#.dll
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\refint\Atividade_C#.dll
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\Atividade_C#.pdb
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\Atividade_C#.genruntimeconfig.cache
+C:\Users\12995884686\source\repos\Atividade_C#\Atividade_C#\obj\Debug\net8.0\ref\Atividade_C#.dll
